@@ -1,0 +1,5 @@
+package br.org.generation.Vitrine.Virtual.services;
+
+public class ProdutoServiceImpl implements IProdutoService {
+
+}

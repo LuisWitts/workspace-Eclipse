@@ -1,0 +1,9 @@
+package br.org.generation.Vitrine.Virtual.model;
+
+public class Departamento {
+
+	private int id;
+	private String nome;
+	private String localizacao;
+	
+}

@@ -1,0 +1,10 @@
+package br.org.generation.Vitrine.Virtual.model;
+
+public class Produto {
+	private int id;
+	private String nome;
+	private String detalhes;
+	private Float preco;
+	private String linkfoto;
+	
+}

@@ -1,0 +1,5 @@
+package br.org.generation.Vitrine.Virtual.dao;
+
+public interface ProdutoRepo {
+
+}

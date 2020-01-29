@@ -1,0 +1,5 @@
+package br.org.generation.Vitrine.Virtual.controllers;
+
+public class ProdutoController {
+
+}
